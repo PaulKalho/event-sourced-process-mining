@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<log xes.version="1.0" xmlns="http://www.xes-standard.org/">
+    <trace>
+    <string key="concept:name" value="Trace 1"/>
+    <event>
+      <string key="concept:name" value="dntc"/>
+      <date key="time:timestamp" value="2024-06-21T10:00:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ddd"/>
+      <date key="time:timestamp" value="2024-06-21T10:05:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="gds"/>
+      <date key="time:timestamp" value="2024-06-21T10:10:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="cds"/>
+      <date key="time:timestamp" value="2024-06-21T10:15:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="fdc"/>
+      <date key="time:timestamp" value="2024-06-21T10:25:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="dp"/>
+      <date key="time:timestamp" value="2024-06-21T10:30:00.000+00:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="Trace 2"/>
+    <event>
+      <string key="concept:name" value="dntc"/>
+      <date key="time:timestamp" value="2024-06-21T10:30:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ratc"/>
+      <date key="time:timestamp" value="2024-06-21T10:35:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="dddc"/>
+      <date key="time:timestamp" value="2024-06-21T10:40:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ctcs"/>
+      <date key="time:timestamp" value="2024-06-21T10:45:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="gds"/>
+      <date key="time:timestamp" value="2024-06-21T10:50:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="cds"/>
+      <date key="time:timestamp" value="2024-06-21T10:55:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="fdc"/>
+      <date key="time:timestamp" value="2024-06-21T11:00:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="dp"/>
+      <date key="time:timestamp" value="2024-06-21T11:05:00.000+00:00"/>
+    </event>
+  </trace>
+  <trace>
+    <string key="concept:name" value="Trace 3"/>
+    <event>
+      <string key="concept:name" value="dntc"/>
+      <date key="time:timestamp" value="2024-06-21T11:15:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="ddd"/>
+      <date key="time:timestamp" value="2024-06-21T11:20:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="gds"/>
+      <date key="time:timestamp" value="2024-06-21T11:25:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="cds"/>
+      <date key="time:timestamp" value="2024-06-21T11:30:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="gds"/>
+      <date key="time:timestamp" value="2024-06-21T11:35:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="cds"/>
+      <date key="time:timestamp" value="2024-06-21T11:40:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="fdc"/>
+      <date key="time:timestamp" value="2024-06-21T11:45:00.000+00:00"/>
+    </event>
+    <event>
+      <string key="concept:name" value="dp"/>
+      <date key="time:timestamp" value="2024-06-21T11:50:00.000+00:00"/>
+    </event>
+  </trace>
+    <trace>
+        <string key="concept:name" value="trace-4"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-06-26T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ddd"/>
+            <date key="time:timestamp" value="2024-06-26T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-26T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-26T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-06-26T12:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-06-26T13:00:00.000+00:00"/>
+        </event>
+    </trace>
+    <trace>
+        <string key="concept:name" value="trace-5"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-06-27T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ddd"/>
+            <date key="time:timestamp" value="2024-06-27T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-27T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-27T10:05:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-06-27T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-06-27T12:00:00.000+00:00"/>
+        </event>
+    </trace>
+    <trace>
+        <string key="concept:name" value="trace-6"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-06-28T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ratc"/>
+            <date key="time:timestamp" value="2024-06-28T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dddc"/>
+            <date key="time:timestamp" value="2024-06-28T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ctcs"/>
+            <date key="time:timestamp" value="2024-06-28T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-28T12:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-28T13:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-06-28T14:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-06-28T15:00:00.000+00:00"/>
+        </event>
+    </trace>
+    <trace>
+        <string key="concept:name" value="trace-7"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-06-29T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ratc"/>
+            <date key="time:timestamp" value="2024-06-29T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dddc"/>
+            <date key="time:timestamp" value="2024-06-29T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ctcs"/>
+            <date key="time:timestamp" value="2024-06-29T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-29T12:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-29T12:30:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-06-29T13:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-06-29T14:00:00.000+00:00"/>
+        </event>
+    </trace>
+    <trace>
+        <string key="concept:name" value="trace-8"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-06-30T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ddd"/>
+            <date key="time:timestamp" value="2024-06-30T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-30T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-30T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-06-30T12:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-06-30T13:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-06-30T14:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-06-30T15:00:00.000+00:00"/>
+        </event>
+    </trace>
+    <trace>
+        <string key="concept:name" value="trace-9"/>
+        <event>
+            <string key="concept:name" value="dntc"/>
+            <date key="time:timestamp" value="2024-07-01T08:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ratc"/>
+            <date key="time:timestamp" value="2024-07-01T09:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dddc"/>
+            <date key="time:timestamp" value="2024-07-01T10:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="ctcs"/>
+            <date key="time:timestamp" value="2024-07-01T11:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-07-01T12:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-07-01T13:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="gds"/>
+            <date key="time:timestamp" value="2024-07-01T14:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="cds"/>
+            <date key="time:timestamp" value="2024-07-01T15:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="fdc"/>
+            <date key="time:timestamp" value="2024-07-01T16:00:00.000+00:00"/>
+        </event>
+        <event>
+            <string key="concept:name" value="dp"/>
+            <date key="time:timestamp" value="2024-07-01T17:00:00.000+00:00"/>
+        </event>
+    </trace>
+</log>
+
