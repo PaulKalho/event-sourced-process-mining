@@ -5,8 +5,10 @@
 > Instructions inside the helpwave/services repository. 
 
 > [!IMPORTANT]
-> Please ensure you have the correct version of the repository checked out to avoid compatibility issues and get the same results as in the thesis
-> Branch ```issue/703-task-missing-endpoints``` 
+> Please ensure you have the correct version of the helpwave/services repository checked out to avoid compatibility issues and to get the same results as shown in the thesis.
+> 
+> Branch ```issue/703-task-missing-endpoints```
+> 
 > Commit Hash ```f949bac``` 
 
 After the services and [EventstoreDB](https://www.eventstore.com/eventstoredb) is running,
