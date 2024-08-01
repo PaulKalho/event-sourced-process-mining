@@ -82,7 +82,7 @@ The default configurations can be found here:
 | EVENT_LOG_OUTPUT_DIR              | output/event_logs         | Directory where the created event logs will be saved |
 | LOG_LEVEL        | DEBUG                        | Log level      |
 
-To configure these env variables, create a .env file inside this repository and define the variables.
+To configure these env variables, create a .env file inside this directory and define the variables.
 
 For example:
 
